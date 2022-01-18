@@ -1,3 +1,4 @@
+![toaster](illustrator-project.jpg)
 ## Goal
 The goal of this project was to create a photorealistic drawing of a mechanical object using Adobe Illustrator. 
 
