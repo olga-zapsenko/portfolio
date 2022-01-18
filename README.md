@@ -11,4 +11,4 @@ It is better to build a palette of global colours first. It means that the same 
 
 ## Reflection
 This project was one of the most technically challenging ones. But this is exactly why I enjoyed it so much! I had to work with the finest details, perfecting them. I believe that a vector illustration may be a powerful addition to the product's photos or modellings. In the end, I am very proud of the result of my work. 
-
+![toaster](comparison.png)
